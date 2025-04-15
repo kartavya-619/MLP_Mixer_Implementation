@@ -12,7 +12,6 @@ This implementation has been tested on the following datasets:
 - Food-101
 - CIFAR-10
 - CIFAR-100
-- SVHN
 - STL-10
 
 Each dataset has a dedicated Jupyter notebook for training and evaluation:
@@ -22,7 +21,6 @@ Each dataset has a dedicated Jupyter notebook for training and evaluation:
 - `mlp_mixer_stl10.ipynb`
 - `mlp_cifar10.ipynb`
 - `mlp_cifar100.ipynb`
-- `mlp_svhn.ipynb`
 
 ---
 
